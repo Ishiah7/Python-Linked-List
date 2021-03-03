@@ -1,15 +1,3 @@
-# linked list can hold any data
-
-# make a class with data var and pointer
-
-# create node Object
-# create head pointer
-# create an object for the linked list
-# head pointer must point to first node
-# when no nodes, head must point to NULL
-# last node in linked list must point to null
-
-
 class Node:
   def __init__(self, data):
     self.data = data
